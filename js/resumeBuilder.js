@@ -1,1 +1,1 @@
-$("#main").append("PrimalMuse");
+$("#main").append("Primal Muse");
